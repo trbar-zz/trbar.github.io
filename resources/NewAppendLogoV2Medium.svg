@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="273px" height="108px" viewBox="0 0 273 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="273px" height="113px" viewBox="0 0 273 113" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
     <title>Group 3</title>
     <desc>Created with Sketch.</desc>
@@ -17,7 +17,7 @@
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Group-3" transform="translate(0.000000, -9.000000)">
-            <g id="append_1" transform="translate(0.000000, 69.000000)">
+            <g id="append_1" transform="translate(0.000000, 74.000000)">
                 <g id="Group" transform="translate(7.917025, 0.000000)" fill="#29ABE2">
                     <path d="M72.687645,32.2863191 L60.0139276,32.2863191 L60.0139276,45.5769304 L51.5650226,45.5769304 L51.5650226,0.412066988 C58.6061366,0.412066988 65.6465309,0.347500154 72.6883647,0.347500154 C94.5782188,0.347500154 94.6429945,32.2863191 72.687645,32.2863191 L72.687645,32.2863191 Z M60.0139276,24.4788104 L72.687645,24.4788104 C83.5044602,24.4788104 83.441124,8.47856846 72.687645,8.47856846 L60.0139276,8.47856846 L60.0139276,24.4788104 L60.0139276,24.4788104 Z" id="Shape"></path>
                     <path d="M115.951307,32.2863191 L103.278309,32.2863191 L103.278309,45.5769304 L94.8308439,45.5769304 L94.8308439,0.412066988 C101.869799,0.412066988 108.910913,0.347500154 115.952027,0.347500154 C137.84332,0.347500154 137.907376,32.2863191 115.951307,32.2863191 L115.951307,32.2863191 Z M103.278309,24.4788104 L115.951307,24.4788104 C126.768842,24.4788104 126.704786,8.47856846 115.951307,8.47856846 L103.278309,8.47856846 L103.278309,24.4788104 L103.278309,24.4788104 Z" id="Shape"></path>
@@ -35,8 +35,8 @@
                 </g>
             </g>
             <text id="Hey,-we-are-" font-family="Roboto-Regular, Roboto" font-size="43.4285714" font-weight="normal" letter-spacing="-2.00999999" fill="#4A4A4A">
-                <tspan x="48.8372093" y="40">Hey, we are</tspan>
-                <tspan x="245.290825" y="40"> </tspan>
+                <tspan x="31.8372093" y="40">Hey, we are</tspan>
+                <tspan x="228.290825" y="40"> </tspan>
             </text>
         </g>
     </g>
